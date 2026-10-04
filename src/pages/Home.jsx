@@ -53,7 +53,7 @@ const images = {
   prasadCounter:
     "https://wd-image.webdunia.com/image-conversion/process-aws.php?h=&outtype=webp&url=https%3A%2F%2Fnonprod-media.webdunia.com%2Fpublic_html%2F_media%2Fmr%2Fimg%2Farticle%2F2023-04%2F05%2Ffull%2F1680684007-1242.jpg&w=1200",
   shopOil:
-    "https://www.justdial.com/Ahmednagar/Mustard-Oil-Wholesalers-in-Shani-Shinganapur/nct-10333862",
+    "https://www.40kmph.com/wp-content/uploads/2024/02/Santosh-Nariyal-Centre-Puja-Items-Shop-at-Shani-Shingnapur-Maharashtra.jpg",
   shanirath:
     "https://cdn.yatradham.org/media/catalog/product/w/h/whatsapp_image_2025-07-15_at_2.10.40_pm_2_.jpg",
   adiraj:
