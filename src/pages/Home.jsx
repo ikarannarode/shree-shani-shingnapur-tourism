@@ -53,7 +53,7 @@ const images = {
   prasadCounter:
     "https://wd-image.webdunia.com/image-conversion/process-aws.php?h=&outtype=webp&url=https%3A%2F%2Fnonprod-media.webdunia.com%2Fpublic_html%2F_media%2Fmr%2Fimg%2Farticle%2F2023-04%2F05%2Ffull%2F1680684007-1242.jpg&w=1200",
   shopOil:
-    "/public/jay-santaji-coconut-centre-and-oil-centre-shani-shinganapur-ahmednagar-coconut-retailers-2pzxg.jpg",
+    "https://www.justdial.com/Ahmednagar/Mustard-Oil-Wholesalers-in-Shani-Shinganapur/nct-10333862",
   shanirath:
     "https://cdn.yatradham.org/media/catalog/product/w/h/whatsapp_image_2025-07-15_at_2.10.40_pm_2_.jpg",
   adiraj:
